@@ -11536,7 +11536,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 
 .table-wrapper .eg-table .transparent-btn {
 	background-color: transparent;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	color: var(--primary-color1);
 	border-radius: 5px;
 }
@@ -11755,7 +11755,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	height: 14px;
 	width: 1px;
-	background-color: rgba(0, 167, 172, 0.3);
+	background-color: rgba(112, 48, 160, 0.3);
 	position: absolute;
 	left: -10px;
 	top: 50%;
@@ -12126,7 +12126,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 
 .feature-card2 {
 	background: #fff;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 5px;
 	transition: 0.35s;
 	padding-left: 25px;
@@ -12136,14 +12136,14 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	display: flex;
 	align-items: center;
 	margin-bottom: 20px;
-	background-color: rgba(182, 235, 236, 0.4);
+	background-color: rgba(182, 162, 235, 0.4);
 	position: relative;
 	z-index: 1;
 }
 
 .feature-card2 .company-area > span {
 	display: inline-block;
-	background-color: #9ceaec;
+	background-color: #b98bff;
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -12162,7 +12162,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	-webkit-clip-path: polygon(0 0, 0% 100%, 100% 100%);
 	clip-path: polygon(0 0, 0% 100%, 100% 100%);
-	background: #91d9db;
+	background: #d5b8ff;
 	height: 13px;
 	width: 7px;
 	position: absolute;
@@ -12174,7 +12174,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	-webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%);
 	clip-path: polygon(100% 0, 100% 100%, 0 100%);
-	background: #91d9db;
+	background: #d5b8ff;
 	height: 13px;
 	width: 7px;
 	position: absolute;
@@ -12313,7 +12313,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	min-width: 28px;
 	height: 28px;
 	line-height: 28px;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	background-color: var(--white);
 	border-radius: 50%;
 	display: flex;
@@ -12705,7 +12705,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 .resume-area .contact-area ul li a span {
 	height: 24px;
 	width: 24px;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 50%;
 	display: flex;
 	align-items: center;
@@ -14104,7 +14104,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	width: 1px;
 	height: 44px;
-	background: rgba(0, 167, 172, 0.3);
+	background: rgba(112, 48, 160, 0.3);
 	position: absolute;
 	right: -40px;
 }
@@ -14497,7 +14497,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	width: 28px;
 	height: 28px;
 	line-height: 28px;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	background: var(--white);
 	border-radius: 50%;
 	display: flex;
@@ -16039,7 +16039,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 
 .company-listing-card2 {
 	background: #fff;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 5px;
 	transition: 0.35s;
 	padding-left: 15px;
@@ -16049,14 +16049,14 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	display: flex;
 	align-items: center;
 	margin-bottom: 20px;
-	background-color: rgba(182, 235, 236, 0.4);
+	background-color: rgba(182, 162, 235, 0.4);
 	position: relative;
 	z-index: 1;
 }
 
 .company-listing-card2 .company-area span {
 	display: inline-block;
-	background-color: #9ceaec;
+	background-color: #b98bff;
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -16075,7 +16075,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	-webkit-clip-path: polygon(0 0, 0% 100%, 100% 100%);
 	clip-path: polygon(0 0, 0% 100%, 100% 100%);
-	background: #91d9db;
+	background: #d5b8ff;
 	height: 13px;
 	width: 7px;
 	position: absolute;
@@ -16087,7 +16087,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	-webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%);
 	clip-path: polygon(100% 0, 100% 100%, 0 100%);
-	background: #91d9db;
+	background: #d5b8ff;
 	height: 13px;
 	width: 7px;
 	position: absolute;
@@ -16641,7 +16641,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	width: 1px;
 	height: 44px;
-	background: rgba(0, 167, 172, 0.3);
+	background: rgba(112, 48, 160, 0.3);
 	position: absolute;
 	right: -40px;
 }
@@ -20456,7 +20456,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	width: 28px;
 	height: 28px;
 	line-height: 28px;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 50%;
 	display: flex;
 	align-items: center;
@@ -21493,7 +21493,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 }
 
 .single-category2 {
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 5px;
 	display: flex;
 	align-items: center;
@@ -22124,7 +22124,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 
 .home2-recruiters-area .recruters-card {
 	background-color: #fff;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 5px;
 	transition: 0.35s;
 	padding: 35px;
@@ -23323,7 +23323,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	content: "";
 	width: 1px;
 	height: 44px;
-	background: rgba(0, 167, 172, 0.3);
+	background: rgba(112, 48, 160, 0.3);
 	position: absolute;
 	right: -40px;
 }
@@ -24921,7 +24921,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 	height: 72px;
 	width: 32px;
 	background: #020b0d;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	border-radius: 37px;
 	display: flex;
 	align-items: center;
@@ -28752,7 +28752,7 @@ header.style-7 .main-menu ul li.menu-item-has-children > i {
 
 .table-wrapper2 .eg-table .transparent-btn {
 	background-color: transparent;
-	border: 1px solid rgba(0, 167, 172, 0.3);
+	border: 1px solid rgba(112, 48, 160, 0.3);
 	color: var(--primary-color1);
 	border-radius: 5px;
 }
