@@ -3373,6 +3373,7 @@ header.style-2 .main-menu ul > li::before {
 	content: url(../images/icon/menu-active.svg);
 	position: absolute;
 	left: 50%;
+	top: -11px;
 	transform: translateX(-50%);
 	opacity: 0;
 	transition: all 0.5s ease-out 0s;
