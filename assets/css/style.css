@@ -10315,11 +10315,11 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #00b4dc;
+	background: #8c3aaa;
 }
 
 .dashboard-inner .author-and-action-btn-area .action-btn-group ul li a:hover {
-	color: #00b4dc;
+	color: #8c3aaa;
 }
 
 .dashboard-inner .author-and-action-btn-area .action-btn-group ul li:nth-child(2) a span {
@@ -10331,11 +10331,11 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 }
 
 .dashboard-inner .author-and-action-btn-area .action-btn-group ul li:nth-child(3) a span {
-	background: #0082e0;
+	background: #864cbf;
 }
 
 .dashboard-inner .author-and-action-btn-area .action-btn-group ul li:nth-child(3) a:hover {
-	color: #0082e0;
+	color: #864cbf;
 }
 
 .dashboard-inner .counter-area {
@@ -24278,11 +24278,11 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #00b4dc;
+	background: #8c3aaa;
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .job-title-and-action-btn-area .action-btn-group ul li a:hover {
-	color: #00b4dc;
+	color: #8c3aaa;
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .job-title-and-action-btn-area .action-btn-group ul li:nth-child(2) a span {
@@ -24294,11 +24294,11 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .job-title-and-action-btn-area .action-btn-group ul li:nth-child(3) a span {
-	background: #0082e0;
+	background: #864cbf;
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .job-title-and-action-btn-area .action-btn-group ul li:nth-child(3) a:hover {
-	color: #0082e0;
+	color: #864cbf;
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .filter-button-group {
@@ -24323,7 +24323,7 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 	font-family: var(--font-exo2);
 	font-weight: 500;
 	font-size: 1rem;
-	color: #00b4dc;
+	color: #8c3aaa;
 	transition: 0.35s;
 	white-space: nowrap;
 	display: flex;
@@ -24332,7 +24332,7 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .filter-button-group .back-btn a svg {
-	fill: #00b4dc;
+	fill: #8c3aaa;
 	transition: 0.35s;
 }
 
@@ -24466,7 +24466,7 @@ header.style-7 .main-menu ul li.menu-item-has-children>i {
 }
 
 .company-job-detaiils-page .job-details-and-counter-area .counter-single.one .total-number {
-	background: #0082e0;
+	background: #864cbf;
 	border: 1px dashed rgba(6, 20, 33, 0.25);
 }
 
