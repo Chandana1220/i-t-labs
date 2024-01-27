@@ -37,12 +37,22 @@
 
 		<link rel="stylesheet" href="assets/css/style.css" />
 		<style>
-			.company-details h6:hover a{
-				font-size: 1.4em !important;
-				transition: font-size 0.3s ease !important;
+			.table-wrapper table.eg-table thead th:first-child {
+				padding-left: 60px; /* Adjust the padding as needed */
 			}
-			
-		</style>
+					
+			.table-wrapper table.eg-table tbody tr td[data-label="Job Title"] {
+				padding-left: 40px; /* Adjust the padding as needed */
+			  }
+			.table-wrapper table.eg-table tbody tr:hover td[data-label="Job Title"] {
+			  transform: scale(1.2); /* You can adjust the scale factor as needed */
+			  transition: transform 0.5s ease; /* Adjust the transition duration as needed */
+			  z-index: 1; /* Ensure the enlarged cell is on top */
+			}
+			.table-wrapper table.eg-table tbody tr:hover h6 a {
+				color: #800080 !important; /* Adjust the color as needed */
+			}
+		</style>			  
 	</head>
 </html>
 
@@ -278,7 +288,7 @@
 						<table class="eg-table table category-table mb-0">
 							<thead>
 								<tr>
-									<th>Name</th>
+									<th>Profile</th>
 									<th>Role</th>
 									<th>Phone Number</th>
 									<th>ITHUB Number</th>
