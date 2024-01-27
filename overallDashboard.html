@@ -1,45 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>I&T Labs Portal</title>
+		<link
+			rel="icon"
+			href="assets/images/sm-logo.svg"
+			type="image/gif"
+			sizes="20x20"
+		/>
 
-<head>
-	<meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>I&T Labs Portal</title>
-	<link rel="icon" href="assets/images/sm-logo.svg" type="image/gif" sizes="20x20" />
+		<link rel="stylesheet" href="assets/css/all.css" />
 
-	<link rel="stylesheet" href="assets/css/all.css" />
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="assets/css/boxicons.min.css" />
+		<link rel="stylesheet" href="assets/css/summernote.min.css" />
 
-	<link rel="stylesheet" href="assets/css/boxicons.min.css" />
-	<link rel="stylesheet" href="assets/css/summernote.min.css" />
+		<link rel="stylesheet" href="assets/css/bootstrap-icons.css" />
 
-	<link rel="stylesheet" href="assets/css/bootstrap-icons.css" />
+		<link rel="stylesheet" href="assets/css/jquery-ui.css" />
 
-	<link rel="stylesheet" href="assets/css/jquery-ui.css" />
+		<link rel="stylesheet" href="assets/css/swiper-bundle.css" />
 
-	<link rel="stylesheet" href="assets/css/swiper-bundle.css" />
+		<link rel="stylesheet" href="assets/css/nice-select.css" />
+		<link rel="stylesheet" href="assets/css/select2.min.css" />
 
-	<link rel="stylesheet" href="assets/css/nice-select.css" />
-	<link rel="stylesheet" href="assets/css/select2.min.css" />
+		<link rel="stylesheet" href="assets/css/animate.css" />
+		<link rel="stylesheet" href="assets/css/jquery.fancybox.min.css" />
 
-	<link rel="stylesheet" href="assets/css/animate.css" />
-	<link rel="stylesheet" href="assets/css/jquery.fancybox.min.css" />
+		<link rel="stylesheet" href="assets/css/datepicker.min.css" />
 
-	<link rel="stylesheet" href="assets/css/datepicker.min.css" />
+		<link rel="stylesheet" href="assets/css/jquery-ui.css" />
 
-	<link rel="stylesheet" href="assets/css/jquery-ui.css" />
-
-	<link rel="stylesheet" href="assets/css/style.css" />
-	<style>
-		.company-details:hover a {
-			font-size: 1.4em !important;
-			transition: font-size 0.3s ease !important;
-			color: #800080 !important;
-		}
-	</style>
-</head>
+		<link rel="stylesheet" href="assets/css/style.css" />
+	</head>
+</html>
 
 <body>
 	<div class="eg-preloder"></div>
@@ -239,7 +237,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="active" href="view-update-users-batch.html">
+                                    <a href="view-update-users-batch.html">
                                         <svg width="18" height="16" viewBox="0 0 18 16"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -250,7 +248,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="overallDashboard.html">
+                                    <a class="active" href="overallDashboard.html">
                                         <svg width="18" height="16" viewBox="0 0 18 16"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -270,14 +268,13 @@
 					</div>
 				</div>
 				<div class="table-wrapper">
-					<h5 class="title">Batches:</h5>
-					<div class="scroll-table">
 						<table class="eg-table table category-table mb-0">
 							<thead>
 								<tr>
-									<th>Batch Name</th>
-									<th>Technology</th>
-									<th>Year</th>
+									<th>Name</th>
+									<th>Role</th>
+									<th>Phone Number</th>
+									<th>ITHUB Number</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -289,13 +286,14 @@
 											</div>
 											<div class="company-details">
 												<div class="top">
-													<h6><a href="batchDetails.html">Full Stack Developer Pro</a></h6>
+													<h6><a href="batchDetails.html">Ravi</a></h6>
 												</div>
 											</div>
 									</td>
-									<td data-label="Company"><a class="view-btn" href="company-details.html">FSD</a>
+									<td data-label="Company"><a class="view-btn" href="company-details.html">Community Member</a>
 									</td>
-									<td data-label="Apply Job">2022</td>
+									<td data-label="Apply Job">+91 98765*****</td>
+									<td data-label="Apply Job">ITHUB****</td>
 								</tr>
 								<tr>
 									<td data-label="Job Title">
@@ -305,13 +303,13 @@
 											</div>
 											<div class="company-details">
 												<div class="top">
-													<h6><a href="batchDetails.html">React JS Masters</a></h6>
+													<h6><a href="batchDetails.html">Virat</a></h6>
 												</div>
 											</div>
 									</td>
-									<td data-label="Company"><a class="view-btn" href="company-details.html">React
-											JS</a></td>
-									<td data-label="Apply Job">2023</td>
+									<td data-label="Company"><a class="view-btn" href="company-details.html">Employer</a></td>
+									<td data-label="Apply Job">+91 70129*****</td>
+									<td data-label="Apply Job">ITHUB****</td>
 								</tr>
 								<tr>
 									<td data-label="Job Title">
@@ -321,13 +319,14 @@
 											</div>
 											<div class="company-details">
 												<div class="top">
-													<h6><a href="batchDetails.html">Blockchain Innovators</a></h6>
+													<h6><a href="batchDetails.html">Mahesh</a></h6>
 												</div>
 											</div>
 									</td>
 									<td data-label="Company"><a class="view-btn"
-											href="company-details.html">Blockchain</a></td>
-									<td data-label="Apply Job">2024</td>
+											href="company-details.html">Community Member</a></td>
+									<td data-label="Apply Job">+91 87654*****</td>
+									<td data-label="Apply Job">ITHUB****</td>
 								</tr>
 								<tr>
 									<td data-label="Job Title">
@@ -337,13 +336,14 @@
 											</div>
 											<div class="company-details">
 												<div class="top">
-													<h6><a href="batchDetails.html">WordPress Wizards</a></h6>
+													<h6><a href="batchDetails.html">Pooja</a></h6>
 												</div>
 											</div>
 									</td>
 									<td data-label="Company"><a class="view-btn"
-											href="company-details.html">WordPress</a></td>
-									<td data-label="Apply Job">2022</td>
+											href="company-details.html">Employer</a></td>
+									<td data-label="Apply Job">+91 91238*****</td>
+									<td data-label="Apply Job">ITHUB****</td>
 								</tr>
 								<tr>
 									<td data-label="Job Title">
@@ -353,13 +353,13 @@
 											</div>
 											<div class="company-details">
 												<div class="top">
-													<h6><a href="batchDetails.html">Data Science Mastery</a></h6>
+													<h6><a href="batchDetails.html">Rajini</a></h6>
 												</div>
 											</div>
 									</td>
-									<td data-label="Company"><a class="view-btn" href="company-details.html">Data
-											Science</a></td>
-									<td data-label="Apply Job">2023</td>
+									<td data-label="Company"><a class="view-btn" href="company-details.html">Community Member</a></td>
+									<td data-label="Apply Job">+91 97853*****</td>
+									<td data-label="Apply Job">ITHUB****</td>
 								</tr>
 								<tr>
 									<td data-label="Job Title">
@@ -369,17 +369,18 @@
 											</div>
 											<div class="company-details">
 												<div class="top">
-													<h6><a href="batchDetails.html">DevOps Champions</a></h6>
+													<h6><a href="batchDetails.html">Asha</a></h6>
 												</div>
 											</div>
 									</td>
-									<td data-label="Company"><a class="view-btn" href="company-details.html">DevOps</a>
+									<td data-label="Company"><a class="view-btn" href="company-details.html">Employer</a>
 									</td>
-									<td data-label="Apply Job">2022</td>
+									<td data-label="Apply Job">+91 78226*****</td>
+									<td data-label="Apply Job">ITHUB****</td>
 								</tr>
 							</tbody>
 						</table>
-					</div>
+					
 				</div>
 			</div>
 		</div>
@@ -509,7 +510,6 @@
 	<script src="assets/js/viewport.jquery.js"></script>
 	<script src="assets/js/jquery.nice-number.min.js"></script>
 	<script src="assets/js/main.js"></script>
-
 </body>
 
 </html>
